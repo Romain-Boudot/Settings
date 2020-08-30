@@ -46,3 +46,40 @@ VSCode
     },
 }
 ```
+
+## extensions
+
+- amlovey.shaderlabvscodefree
+- boundarystudio.csharp-extentions-pack
+- cemuka.unity-code-snippets
+- CoenraadS.bracket-pair-colorizer
+- dbaeumer.vscode-eslint
+- eamodio.gitlens
+- eg2.tslint
+- eppz.eppz-code
+- Equinusocio.vsc-community-material-theme
+- Equinusocio.vsc-material-theme
+- equinusocio.vsc-material-theme-icons
+- formulahendry.code-runner
+- HookyQR.beautify
+- jchannon.csharpextensions
+- johnpapa.Angular2
+- jorgeserrano.vscode-csharp-snippets
+- kleber-swf.unity-code-snippets
+- liximomo.sftp
+- mp.vscode-oracle-format
+- ms-dotnettools.csharp
+- ms-python.python
+- ms-vscode.vscode-typescript-tslint-plugin
+- ms-vsliveshare.vsliveshare
+- mycelo.oracle-plsql
+- octref.vetur
+- ritwickdey.LiveServer
+- shd101wyy.markdown-preview-enhanced
+- slevesque.shader
+- sumneko.lua
+- tht13.python
+- Tobiah.unity-tools
+- Unity.unity-debug
+- vscode-snippet.snippet
+- YclepticStudios.unity-snippets
