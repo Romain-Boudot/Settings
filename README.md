@@ -1,7 +1,7 @@
 # Settings
 Personal settings for Ide
 
-```json
+```
 {
     "window.zoomLevel": 0,
     "editor.letterSpacing": 1,
