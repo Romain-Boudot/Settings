@@ -1,5 +1,8 @@
 # Settings
-VSCode
+
+## VSCode
+
+### Config JSON
 
 ```
 {
@@ -47,7 +50,7 @@ VSCode
 }
 ```
 
-## extensions
+### extensions
 
 - amlovey.shaderlabvscodefree
 - boundarystudio.csharp-extentions-pack
