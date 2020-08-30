@@ -1,5 +1,5 @@
 # Settings
-Personal settings for Ide
+VSCode
 
 ```
 {
